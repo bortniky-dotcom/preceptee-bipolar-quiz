@@ -1,2 +1,5 @@
 # preceptee-bipolar-quiz
-PMHNP preceptorship Bipolar II exam. Host bipolarquiz.yuriybortnik.com. Hold send.
+
+Student Bipolar II preceptorship exam.
+Intended host bipolarquiz.yuriybortnik.com
+Merge only. Do not publish. Hold student send until Yuriy says go.
